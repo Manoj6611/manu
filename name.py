@@ -1,0 +1,3 @@
+
+name="thejas"
+print(name)
